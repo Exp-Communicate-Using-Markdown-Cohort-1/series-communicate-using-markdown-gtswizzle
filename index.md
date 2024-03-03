@@ -11,3 +11,7 @@ I used pound signs to change the size of headers in GitHub's Markdown Tool;
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+- [ ] Create Tasklist
+- [ ] Get graded
+- [ ] Celebrate!
